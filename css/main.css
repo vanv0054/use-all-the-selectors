@@ -34,7 +34,7 @@ html > body > header > h1 > nav > ul > li + mark {
   background-color: #719e07;
 }
 
-li rel="external" {
+a[rel="external"] {
   background-color: #2694d8;
 }
 
