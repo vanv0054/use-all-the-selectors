@@ -1,5 +1,5 @@
 body {
-  background-color: #fdf6e3
+  background-color: #fdf6e3;
 }
 
 header footer {
@@ -7,7 +7,7 @@ header footer {
 }
 
 ul > nav {
-  font-family: sand-serif;
+  font-family: sans-serif;
 }
 
 logo {
@@ -27,11 +27,11 @@ contents, favs, facts, types {
 }
 
 .dfn + strong {
-  color: #fff
+  color: #fff;
 }
 
 html > body > header > h1 > nav > ul > li + mark {
-  background-color: #719307;
+  background-color: #719e07;
 }
 
 li rel="external" {
@@ -39,11 +39,11 @@ li rel="external" {
 }
 
 ol > li:first-child {
-  color: #719e47
+  color: #719e47;
 }
 
 ol > li:last-child {
-  color: #2aa198
+  color: #2aa198;
 }
 
 .types > li:nth-child(odd) {
